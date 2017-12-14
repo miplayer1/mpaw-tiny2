@@ -1,0 +1,193 @@
+/**
+	* @site   Ma petite agence web
+	* @autors cooldev.xyz
+	* @media responsive
+	* @version 1.0
+	* @lastmodified Nov, 27 2017
+	
+	*/
+	
+/**
+	*HELPER
+	
+	*colors
+	blue accent-4
+	amber accent-4
+	*
+	*fonts 
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Quicksand', sans-serif;
+
+
+	*/
+	
+	
+/**
+	
+	*
+	* GENERAL
+	*
+	*/
+
+h1{
+  font-size: 2rem;
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 900;
+}
+h2 {
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
+	font-size: 1.2rem;
+}
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1.2rem;
+}
+
+/**
+	
+	*
+	* HEADER
+	*
+	*/	
+	
+header {
+
+  position: relative;
+  display: flex;
+  height: 95vh;
+
+}
+
+.logo {
+	z-index: 2;	
+}
+
+.header-content {
+  margin: auto;
+  z-index: 2;
+}
+.divider {
+	height: 6px;
+	background-color: white;
+}
+.arrow  {
+	position: absolute;
+	bottom: 5px;
+	
+}
+#section1 p {
+	font-size: 1rem;
+}
+
+
+/**
+	
+	*
+	* NAV
+	*
+	*/
+#sidenav-overlay {
+  z-index: 1;
+}
+#logo {
+	padding-top: 10px;
+}
+
+
+/**
+	
+	*
+	* SECTIONS
+	*
+	*/
+	
+#section1, #section2, #contact {
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.separator {
+	margin-bottom: 30px;
+}
+
+/**
+	
+	*
+	* CARTES
+	*
+	*/
+	
+
+
+.activator img {
+	margin: 30px;
+}
+
+/**
+	
+	*
+	* SECTION 2
+	*
+	*/
+	
+/**
+	
+	*
+	* SECTION 3
+	*
+	*/
+
+/**
+	
+	*
+	* FOOTER
+	*
+	*/
+footer p {
+	font-size: 1rem;
+}
+
+.social a {
+	padding: 5px;
+}
+
+.no-margin-bottom {
+	margin-bottom: 0!important;
+}
+/* 
+	***********************
+	
+	**13.MEDIA QUERIES<3 **
+	
+	***********************
+	*/
+
+@media all and (min-width: 601px){
+	h1{
+		font-size: 3.5rem!important;
+	}
+	h2{
+		font-size: 1.6rem!important;
+	}	
+}
+@media all and (min-width: 801px){
+
+    h1{
+		font-size: 3.5rem!important;
+	}
+	h2{
+		font-size: 1.8rem!important;
+	}	
+}
+
+@media all and (min-width: 1200px){
+	h1{
+		font-size: 3.5rem!important;
+	}
+	h2{
+		font-size: 2rem!important;
+	}	
+}
+
