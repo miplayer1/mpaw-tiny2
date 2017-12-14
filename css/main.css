@@ -78,6 +78,9 @@ header {
 	bottom: 5px;
 	
 }
+header p {
+	font-style: italic;
+}
 #section1 p {
 	font-size: 1rem;
 }
@@ -124,7 +127,9 @@ padding-bottom: 50px;
 .activator img {
 	margin: 30px;
 }
-
+.card-title {
+	font-size: 1.5rem!important;
+}
 /**
 	
 	*
