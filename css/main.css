@@ -39,7 +39,7 @@ h1{
 h2 {
 	font-family: 'Quicksand', sans-serif;
 	font-weight: 400;
-	font-size: 1.2rem;
+	font-size: 1.4rem;
 }
 p {
 	font-family: 'Open Sans', sans-serif;
@@ -56,7 +56,7 @@ p {
 header {
 
   position: relative;
-  display: flex;
+
   height: 95vh;
 
 }
@@ -76,10 +76,13 @@ header {
 .arrow  {
 	position: absolute;
 	bottom: 5px;
+	width: 100%;
 	
 }
 header p {
 	font-style: italic;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: 400;
 }
 #section1 p {
 	font-size: 1rem;

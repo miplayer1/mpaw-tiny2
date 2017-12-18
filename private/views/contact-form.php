@@ -2,7 +2,7 @@
 	<div class="container">
 	 <div class="row">
 	    <div class="col s12">
-	      <h2 class="dark-green center-align">Contactez-nous !</h2>	      
+	      <h2 class="dark-green center-align">Pour nous contacter : </h2>	      
 	     </div>
 	     <div class="separator col s2 offset-s5 divider"></div>
 	 

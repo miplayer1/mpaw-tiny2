@@ -4,7 +4,7 @@ error_reporting(E_ALL);
 
 if (isset($_POST['submit'])) {
   if (!empty($_POST['nom'] && $_POST['email'] && $_POST['objet'] && $_POST['message'])) {
-    $to       = 'hello@cooldev.xyz';
+    $to       = 'mylene@cooldev.xyz';
     $nom     = filter_input(INPUT_POST, 'nom', FILTER_SANITIZE_SPECIAL_CHARS, FILTER_FLAG_STRIP_HIGH);
     $email    = filter_input(INPUT_POST, 'email', FILTER_SANITIZE_EMAIL, FILTER_VALIDATE_EMAIL);
     $objet    = filter_input(INPUT_POST, 'objet', FILTER_SANITIZE_SPECIAL_CHARS, FILTER_FLAG_STRIP_HIGH);
