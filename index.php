@@ -22,14 +22,23 @@
 	<meta property="og:url" content="http://www.mpaw.xyz/" />
 	<meta property="og:description" content="Où vous trouver, comment vous contacter, êtes-vous ouvert aujourd'hui ? Autant d'informations que vos futurs clients doivent trouver rapidement" />
 	<meta property="og:type" content="website" />
-	<meta property="og:image" content="http:///assets/og-img.png" />
+	<meta property="og:image" content="http://www.mpaw.xyz/assets/img/og-img.png" />
 
 
 <!-- Piwik -->
-
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//analytics.mpaw.xyz/piwik/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
 <!-- End Piwik Code -->
-
-
   </head>
   <body >
 <?php include('private/views/nav.php');?>
@@ -38,11 +47,6 @@
 <?php include('private/views/section-text-color.php');?>
 <?php include('private/views/contact-form.php');?>
 <?php include('private/views/footer.php');?>
-
-
-
-
-
 
     <script
 			  src="https://code.jquery.com/jquery-3.2.1.min.js"
