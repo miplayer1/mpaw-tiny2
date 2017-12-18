@@ -10,9 +10,9 @@
           <li><a href="#contact">Contactez-nous</a></li>
         </ul>
         <ul class="side-nav" id="mobile-menu">
-          <li><a href="#section1">#1</a></li>
-          <li><a href="#section2">#2</a></li>
-          <li><a href="#contact">#3</a></li>
+          <li><a href="#section1">Vos besoins</a></li>
+          <li><a href="#section2">Votre motivation</a></li>
+          <li><a href="#contact">Contactez-nous</a></li>
         </ul>
         </div>
         </div>

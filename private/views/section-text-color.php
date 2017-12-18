@@ -4,7 +4,7 @@
       	<div class="col s12 m8 offset-m2 white-text">
         		<h2 class="center-align">Pourquoi votre présence numérique est indispensable ?</h2>
        	</div>
-        <div class="separator col s2 offset-s5 divider"></div>
+        <div class="title separator col s2 offset-s5 divider"></div>
         <div class="col s12 center-align">
        		<div class="col s12 m6 l6">
 						<div class="center-align">

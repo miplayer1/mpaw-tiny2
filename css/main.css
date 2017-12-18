@@ -112,12 +112,14 @@ header p {
 	
 #section1, #section2, #contact {
 padding-top: 50px;
-padding-bottom: 50px;
+padding-bottom: 80px;
 }
 .separator {
 	margin-bottom: 30px;
 }
-
+.title {
+	margin-bottom: 80px;
+}
 /**
 	
 	*

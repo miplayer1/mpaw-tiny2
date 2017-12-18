@@ -10,7 +10,7 @@
 		<div class="col s12 m8 offset-m1 white-text">         
 		 <h2>Ma Petite Agence Web, spécialiste en développement de sites web dédiés aux smalls business*.</h2>
 		 <p>* small business = petite entreprise, mais ça sonne mieux ;)<br><br>
-		<a class="waves-effect waves-light btn-large amber accent-4"><i class="material-icons left">mail</i>Contactez-nous</a></p> 
+		<a href="#contact" class="waves-effect waves-light btn-large amber accent-4 scrollTo"><i class="material-icons left">mail</i>Contactez-nous</a></p> 
 		</div>       
 	  </div><!--TITLE-->
 		<div class="row ">
