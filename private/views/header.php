@@ -1,4 +1,4 @@
- <header class="valign-wrapper blue accent-4">
+ <header class="blue accent-4">
 	 <div class="header-content"> 	
 		<div class="row">         
 		  <div class="col s12 m8 offset-m1 l6 offset-l1">        	

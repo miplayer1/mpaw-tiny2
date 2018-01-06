@@ -10,8 +10,8 @@
     <div class="col s12 m12 l12">
       <h4><?= $post->title; ?></h4>
       <div class="row">
-        <div class="col s12 m6 l8">
-          <?= substr(nl2br($post->content),0,1200); ?>
+        <div class="truncate col s12 m6 l8">
+          <?= substr(nl2br($post->content),0,300); ?>
           <br />
         </div>
         <div class="col s12 m6 l4">
@@ -22,6 +22,18 @@
       </div>
     </div>
   </div>
+  
 <?php
   }
 ?>
+<div class="center-align">
+  <ul class="pagination">
+    <li class="disabled"><a href="#!"><i class="material-icons">chevron_left</i></a></li>
+    <li class="active"><a href="#!">1</a></li>
+    <li class="waves-effect"><a href="#!">2</a></li>
+    <li class="waves-effect"><a href="#!">3</a></li>
+    <li class="waves-effect"><a href="#!">4</a></li>
+    <li class="waves-effect"><a href="#!">5</a></li>
+    <li class="waves-effect"><a href="#!"><i class="material-icons">chevron_right</i></a></li>
+  </ul>
+</div>

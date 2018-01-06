@@ -326,6 +326,17 @@
        fx="176"
        fy="307.36218"
        r="15.00011" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7253"
+       id="radialGradient1158-5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.75347465,0,0,0.75543316,40.786198,67.658806)"
+       cx="176"
+       cy="307.36218"
+       fx="176"
+       fy="307.36218"
+       r="15.00011" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -334,9 +345,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6421381"
-     inkscape:cx="3943.2221"
-     inkscape:cy="708.40533"
+     inkscape:zoom="0.58058349"
+     inkscape:cx="3845.5456"
+     inkscape:cy="644.24556"
      inkscape:document-units="px"
      inkscape:current-layer="g963"
      showgrid="false"
@@ -374,7 +385,7 @@
        id="guide8748"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4352.8616,462.81125"
+       position="3958.087,463.32699"
        orientation="0,-744.09448"
        id="guide8750"
        inkscape:locked="false" />
@@ -414,14 +425,19 @@
        id="guide1237"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="3762.7773,638.80132"
+       position="3952.9198,668.2932"
        orientation="0,1"
        id="guide1114"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="4045.3357,730.14565"
+       position="3994.2575,613.17623"
        orientation="0,1"
        id="guide1116"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="4223.3374,945.60043"
+       orientation="1,0"
+       id="guide1199"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
@@ -737,8 +753,7 @@
           </g>
         </g>
         <g
-           aria-label="Ma petite 
-agence web"
+           aria-label="Ma petite  agence web"
            transform="matrix(1.8143332,0,0,1.8143332,4630.9104,-1163.7768)"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0.01%;font-family:Quicksand;-inkscape-font-specification:'Quicksand, Bold';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            id="flowRoot1154">
@@ -810,6 +825,107 @@ agence web"
              d="m 1303.6164,1140.1561 c 0,2.84 1.4,5.64 3.68,7.28 -0.48,0.84 -1.16,1.4 -2.16,1.4 -1.92,0 -2.84,-1.96 -2.84,-4.6 v -18.7198 c 0,-0.96 -0.84,-1.76 -2.16,-1.76 -0.56,0 -1.28,0.16 -1.28,0.44 0,0.28 0.4,0.36 0.4,1.52 v 19.0798 c 0,3.92 1.96,6.6799 5.64,6.6799 2.32,0 3.88,-1.1599 4.8799,-2.8799 0.64,0.2 1.32,0.28 2.04,0.28 2.72,0 4.36,-1.8 4.84,-3.96 0.52,-2.24 -2.12,-2.08 -2.28,-1.16 -0.24,1.56 -1.16,2.88 -2.88,2.88 -0.28,0 -0.56,0 -0.84,-0.08 0.4,-1.4 0.6,-3 0.6,-4.56 0,-4.4799 -2.1199,-6.5199 -4.2399,-6.5199 -1.88,0 -3.4,1.44 -3.4,4.6799 z m 2.48,-0.16 c 0,-1.1199 0.2,-1.8799 0.72,-1.8799 0.72,0 1.4,1.5199 1.4,4.1999 0,0.76 -0.04,1.72 -0.2,2.64 -1.16,-1.24 -1.92,-3.04 -1.92,-4.96 z"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.99967194px;line-height:1.25;font-family:'Grand Hotel';-inkscape-font-specification:'Grand Hotel, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#fffefd;fill-opacity:1"
              id="path1218" />
+        </g>
+      </g>
+      <g
+         id="g1232">
+        <g
+           id="g1250"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90">
+          <g
+             style="display:inline"
+             id="g1146-3"
+             transform="matrix(1.5153846,0,0,1.4489268,7021.4647,301.10039)"
+             inkscape:export-filename="/var/www/html/mpaw-tiny2/assets/img/logompaw.png"
+             inkscape:export-xdpi="90"
+             inkscape:export-ydpi="90">
+            <g
+               transform="matrix(0.92266199,0,0,0.94164427,12.992383,247.09041)"
+               id="g1144-7"
+               style="display:inline">
+              <g
+                 id="g1142-4"
+                 transform="matrix(2.9477524,0,0,2.9477524,78.88133,-427.05073)">
+                <g
+                   id="g1120-2" />
+                <g
+                   id="g1264">
+                  <g
+                     id="g1140-5"
+                     transform="translate(-106.15437,-94.722358)">
+                    <g
+                       id="g1138-7"
+                       inkscape:export-filename="/var/www/html/mpaw-tiny2/assets/img/logompaw.png"
+                       inkscape:export-xdpi="90"
+                       inkscape:export-ydpi="90">
+                      <g
+                         id="g1282"
+                         inkscape:export-xdpi="90"
+                         inkscape:export-ydpi="90">
+                        <rect
+                           transform="matrix(0.24262944,0,0,0.24864268,-1628.9965,75.711249)"
+                           style="display:inline;opacity:0.98999999;fill:#2962ff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:40.65673065;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+                           id="rect1131"
+                           width="1003.8772"
+                           height="1003.8772"
+                           x="7083.6079"
+                           y="498.01208"
+                           rx="0"
+                           ry="0" />
+                        <path
+                           inkscape:export-ydpi="90"
+                           inkscape:export-xdpi="90"
+                           inkscape:export-filename="/var/www/html/mpaw-tiny2/assets/img/logompaw.png"
+                           style="display:inline;fill:#ffab00;fill-opacity:1;stroke:#ffab00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+                           d="m 227.62788,331.67463 7.64121,-20.51064 11.26075,19.30413 c 7.97199,21.88254 12.78322,42.18469 16.48894,61.93409 7.79745,37.08088 2.6973,26.87059 1.60868,31.36921 -10.39535,-39.79476 -15.83663,-62.81346 -36.99958,-92.09679 z"
+                           id="path1122-4"
+                           inkscape:connector-curvature="0"
+                           sodipodi:nodetypes="cccccc"
+                           transform="translate(7.2018643e-6)" />
+                        <g
+                           inkscape:export-ydpi="90"
+                           inkscape:export-xdpi="90"
+                           inkscape:export-filename="/var/www/html/mpaw-tiny2/assets/img/logompaw.png"
+                           id="g1132-7"
+                           style="display:inline"
+                           transform="translate(7.2018643e-6)">
+                          <g
+                             id="g1126-4">
+                            <path
+                               inkscape:connector-curvature="0"
+                               id="path1124-4"
+                               d="m 111.4512,301.17188 c -0.92058,-33.91357 25.82553,-62.15222 59.7391,-63.0728 33.91357,-0.92057 62.15222,25.82554 63.0728,59.73911 0.92057,33.91357 -25.82554,62.15222 -59.73911,63.0728 -33.14411,0.89968 -61.02128,-24.66549 -62.98732,-57.76346"
+                               style="fill:#ffffff;fill-opacity:1;stroke:none"
+                               transform="matrix(0.62056627,0,0,0.61242669,166.23068,115.93731)" />
+                          </g>
+                          <g
+                             id="g1130-3">
+                            <path
+                               inkscape:connector-curvature="0"
+                               id="path1128-0"
+                               d="m 161.00552,307.7692 c -0.22479,-8.28122 6.30624,-15.1767 14.58746,-15.40149 8.28122,-0.2248 15.17671,6.30623 15.4015,14.58745 0.22479,8.28122 -6.30624,15.17671 -14.58746,15.4015 -8.09333,0.21969 -14.90054,-6.02297 -15.38063,-14.10503"
+                               style="fill:#000000;fill-opacity:1;stroke:none"
+                               transform="translate(97,-7.9999956)" />
+                          </g>
+                        </g>
+                        <path
+                           inkscape:connector-curvature="0"
+                           id="path1134-8"
+                           d="m 111.4512,301.17188 c -0.92058,-33.91357 25.82553,-62.15222 59.7391,-63.0728 33.91357,-0.92057 62.15222,25.82554 63.0728,59.73911 0.92057,33.91357 -25.82554,62.15222 -59.73911,63.0728 -33.14411,0.89968 -61.02128,-24.66549 -62.98732,-57.76346"
+                           style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:1;marker-start:none" />
+                        <path
+                           inkscape:connector-curvature="0"
+                           id="path1136-6"
+                           d="m 162.09978,300.1578 c -0.16937,-6.2559 4.75159,-11.46497 10.99128,-11.63478 6.23969,-0.16983 11.43526,4.76393 11.60464,11.01984 0.16937,6.2559 -4.75159,11.46498 -10.99128,11.63479 -6.09812,0.16597 -11.22718,-4.54995 -11.58892,-10.6554"
+                           style="fill:#000000;fill-opacity:1;stroke:url(#radialGradient1158-5);stroke-width:0.7544533" />
+                      </g>
+                    </g>
+                  </g>
+                </g>
+              </g>
+            </g>
+          </g>
         </g>
       </g>
     </g>

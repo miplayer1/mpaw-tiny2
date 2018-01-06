@@ -16,14 +16,14 @@
   </div>
 
   <div class="container">
-    <h2><?= $post->title; ?></h2>
+    <h1><?= $post->title; ?></h1>
     <h6><?= $post->name; ?> le <?= date("d/m/Y à H:i", strtotime($post->date))?></h6>
-    <p><?= nl2br($post->content); ?></p>
+    <?= nl2br($post->content); ?>
 <?php
   }
  ?>
 
-<hr>
+<!--<hr>
   <h4>Commentaires sur l'article</h4>
   <?php
     $comments = getComment();
@@ -116,4 +116,4 @@ foreach ($errors as $error) {
   </div>
 </div>
 
-</form>
+</form>-->

@@ -1,4 +1,5 @@
 <?php
+	error_reporting(E_ALL);
   include_once 'config.php';
   include 'functions/functions.php';
 
@@ -31,10 +32,10 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
       rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.99.0/css/materialize.min.css">
-    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="http://www.mpaw.xyz/blog/css/style.css">
   </head>
   <body>
-    <?php include'template/navbar.php'; ?>
+    <?php include'../private/views/nav.php'; ?>
     <div class="container">
       <?php include 'pages/'.$page.'.php'; ?>
     </div>
@@ -55,6 +56,6 @@
     <?php
       }
      ?>
-
+	<script async defer src="http://assets.pinterest.com/js/pinit.js"></script>
   </body>
 </html>

@@ -1,0 +1,87 @@
+/**
+	* @site   Ma petite agence web, le blog
+	* @autors cooldev.xyz
+	* @media responsive
+	* @version 1.0
+	* @lastmodified janvier, 3 2018
+	
+	*/
+	
+/**
+	*HELPER
+	
+	*colors
+	blue accent-4
+	amber accent-4
+	*
+	*fonts 
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Quicksand', sans-serif;
+
+
+	*/
+	
+	
+/**
+	
+	*
+	* GENERAL
+	*
+	*/
+.parallax-container {
+  height: 400px!important;
+}
+h1 {
+	font-family: 'Quicksand', sans-serif!important;
+	font-size: 3rem;
+	font-weight: bold;
+}
+h2 {
+	font-family: 'Quicksand', sans-serif!important;
+	font-size: 1.8rem;
+	font-weight: bold;
+}
+h3 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.3rem;
+	font-weight: bold;
+}
+p {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.2rem;
+}
+ul {
+	margin-left: 50px;
+}
+li {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 1.2rem;
+	list-style-image: url(../assets/img/done.svg);
+
+}
+p.lettrine::first-letter {
+  font-family:'Quicksand', sans-serif;
+  font-size:3.5em;
+  padding-right:0.2em;
+  float:left;
+  color:orange;
+}
+
+/**
+	
+	*
+	* NAV
+	*
+	*/
+#sidenav-overlay {
+  z-index: 1;
+}
+#logo {
+	padding-top: 10px;
+}
+.navbar-fixed li {
+	list-style: none;
+	font-family: "Roboto", sans-serif;
+}
