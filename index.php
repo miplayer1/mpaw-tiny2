@@ -23,7 +23,8 @@
 	<meta property="og:description" content="Où vous trouver, comment vous contacter, êtes-vous ouvert aujourd'hui ? Autant d'informations que vos futurs clients doivent trouver rapidement" />
 	<meta property="og:type" content="website" />
 	<meta property="og:image" content="http://www.mpaw.xyz/assets/img/og-img.png" />
-
+<!-- Pinterest -->
+<meta name="p:domain_verify" content="ee7f267948304f2e898b320f2b6f4741"/>
 
 <!-- Piwik -->
 <script type="text/javascript">

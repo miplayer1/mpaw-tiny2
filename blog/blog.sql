@@ -85,7 +85,7 @@ CREATE TABLE `posts` (
   `content` text NOT NULL,
   `author` varchar(255) NOT NULL,
   `image` varchar(255) NOT NULL DEFAULT 'post.jpeg',
-  `date` datetime NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `date` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
   `posted` tinyint(1) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 

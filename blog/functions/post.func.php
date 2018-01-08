@@ -8,6 +8,10 @@
               posts.image,
               posts.content,
               posts.date,
+              posts.ogtitle,
+              posts.ogimage,
+              posts.ogdescription,
+              posts.ogurl,
               admin.name
       FROM posts
       JOIN admin

@@ -1,5 +1,6 @@
 <h2>Blog</h2>
 
+
 <?php
 
   $posts = getPosts();

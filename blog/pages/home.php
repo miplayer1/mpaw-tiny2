@@ -1,5 +1,6 @@
 <h1>Blog</h1>
 
+
 <div class="row">
   <?php
     $posts = getPosts();
