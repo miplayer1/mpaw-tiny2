@@ -1,10 +1,11 @@
 <section id="section2" class="blue accent-4 scrollspy">	
 	<div class="container">
 	 	<div class="row">
-      	<div class="col s12 m8 offset-m2 white-text">
-        		<h2 class="center-align">Pourquoi votre présence numérique est indispensable ?</h2>
+     
+        		<h2 class="title center-align white-text">Pourquoi votre présence numérique est indispensable ?</h2>
+    
        	</div>
-        <div class="title separator col s2 offset-s5 divider"></div>
+       	<div class="row">
         <div class="col s12 center-align">
        		<div class="col s12 m6 l6">
 						<div class="center-align">
@@ -26,6 +27,6 @@
             </div>
          	</div>
          </div>
-         </div>
-         </div>
+        </div>
+   </div>
 </section><!--SECTION 2-->

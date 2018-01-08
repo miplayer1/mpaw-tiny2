@@ -2,14 +2,14 @@
 	 <div class="header-content"> 	
 		<div class="row">         
 		  <div class="col s12 m8 offset-m1 l6 offset-l1">        	
-		 <h1 class=" white-text">Faites grandir votre entreprise </h1>
+		 <h1 class=" white-text">Montrez-vous !</h1>
 		 <div class="col s2 divider"></div>
 		</div>
 		</div>
 		<div class="row"> 
 		<div class="col s12 m8 offset-m1 white-text">         
-		 <h2>Ma Petite Agence Web, spécialiste en développement de sites web dédiés aux smalls business*.</h2>
-		 <p>* small business = petite entreprise, mais ça sonne mieux ;)<br><br>
+		 <h2>Ma Petite Agence Web développe le site web de votre Small Business*.</h2>
+		 <p>* small business = indépendant, artisan, profession libérale, auto-entrepreneur... mais ça sonne mieux ;)<br><br>
 		<a href="#contact" class="waves-effect waves-light btn-large amber accent-4 scrollTo"><i class="material-icons left">mail</i>Contactez-nous</a></p> 
 		</div>       
 	  </div><!--TITLE-->

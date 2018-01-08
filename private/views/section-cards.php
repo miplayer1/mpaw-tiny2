@@ -1,7 +1,7 @@
 <section id="section1" class="scrollspy">
 	<div class="container">
 		<div class="row">
-			<h2 class="title center-align grey-text">De quoi avez-vous besoin pour cela ?</h2>		
+			<h2 class="title center-align grey-text">Quels sont les besoins d'un small business ?</h2>		
 		</div>
 	</div>
 	   <div class="row">
@@ -13,7 +13,7 @@
                 <span class="activator btn-floating halfway-fab waves-effect waves-light blue accent-4"><i class="material-icons">add</i></span>
               </div>
               <div class="card-content">
-                <h3 class="card-title activator">Un site web</h3>
+                <h3 class="card-title activator">Être visible</h3>
               </div><!--CARD-CONTENT-->
 					<div class="card-reveal">
               <h4 class="card-title">Soyez visible sur internet <i class="material-icons right">close</i></h4>
@@ -29,7 +29,7 @@
 					<span class="activator btn-floating halfway-fab waves-effect waves-light blue accent-4"><i class="material-icons">add</i></span>
             </div>
             <div class="card-content">
-              <h3 class="card-title activator">Une formation</h3>
+              <h3 class="card-title activator">Se former</h3>
             </div><!--CARD-CONTENT-->
             <div class="card-reveal">
               <h4 class="card-title">Formez-vous !<i class="material-icons right">close</i></h4>
@@ -48,9 +48,9 @@
               <h3 class="card-title activator">Quelques astuces</h3>
             </div><!--CARD-CONTENT-->
             <div class="card-reveal">
-              <h4 class="card-title">Le blog (bientôt)<i class="material-icons right">close</i></h4>
-              <p>Des articles et des tutos qui vous concernent et peuvent vous aider pour développer votre entreprise. </p>   
-              <a class="waves-effect waves-light btn-large amber accent-4"><i class="material-icons left">&#xE895;</i>Le blog</a>           
+              <h4 class="card-title">Le blog<i class="material-icons right">close</i></h4>
+              <p>Des articles et des tutos qui vous concernent et peuvent vous aider à développer votre entreprise. </p>   
+              <a href="http://www.mpaw.xyz/blog/index.php?page=home" class="waves-effect waves-light btn-large amber accent-4"><i class="material-icons left">&#xE895;</i>Le blog</a>           
             </div><!--CARD-REVEAL-->
           </div>
       	</div><!--CARD 3-->
