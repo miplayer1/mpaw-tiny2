@@ -23,9 +23,9 @@
   }
  ?>
 
-<!-- <hr>
+<hr>
   <h4>Commentaires sur l'article</h4>
-  //<?php
+  <?php
     $comments = getComment();
 
     if($comments != false) {
@@ -45,7 +45,7 @@
 <hr>
 <h4>Commenter l'article</h4>
 
-//<?php
+<?php
   if(isset($_POST['submit'])) {
     $name = htmlspecialchars(trim($_POST['name']));
     $email = htmlspecialchars(trim($_POST['email']));
@@ -64,7 +64,7 @@
 ?>
   <div class="card red">
     <div class="card-content white-text center-align">
-//<?php
+<?php
   foreach ($errors as $error) {
     echo($error)."<br/>";
   }
@@ -72,14 +72,14 @@
     </div>
   </div>
 
-//<?php
+<?php
     } else {
       postComment($name, $email, $comment);
       $errors['comment'] = "Votre commentaire a été soumis";
 ?>
 <div class="card green">
   <div class="card-content white-text center-align">
-//<?php
+<?php
 foreach ($errors as $error) {
   echo($error);
 }
@@ -91,7 +91,7 @@ foreach ($errors as $error) {
   window.location.replace('index.php?page=home&id=<?= $_GET['id']; ?>');
 </script>
 
-//<?php
+<?php
     }
 
   }

@@ -45,7 +45,7 @@
   function getComment() {
     global $db;
 
-    $req = $db->query("SELECT * FROM comments WHERE post_id = '{$_GET['id']}' ORDER BY date DESC");
+    $req = $db->query("SELECT * FROM comments WHERE post_id = '{$_GET['id']}' AND seen = '1' ORDER BY date DESC");
 
     $results = [];
 
