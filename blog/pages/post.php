@@ -35,7 +35,7 @@
           <?= $comment->name;?> le <?= date("d/m/Y", strtotime($comment->date)); ?>
           <p><?= nl2br($comment->comment); ?></p>
         </blockquote>
-  //<?php
+  <?php
       }
 
   } else {
@@ -75,9 +75,9 @@
 <?php
     } else {
       postComment($name, $email, $comment);
-      $errors['comment'] = "Votre commentaire a été soumis";
+      $errors['comment'] = "Votre commentaire a été soumis, juste le temps de le modérer et il apparaitra ici :)";
 ?>
-<div class="card green">
+<div class="card green" >
   <div class="card-content white-text center-align">
 <?php
 foreach ($errors as $error) {
@@ -87,9 +87,9 @@ foreach ($errors as $error) {
   </div>
 </div>
 
-<script type="text/javascript">
+<!--<script type="text/javascript">
   window.location.replace('index.php?page=home&id=<?= $_GET['id']; ?>');
-</script>
+</script>-->
 
 <?php
     }
@@ -97,7 +97,7 @@ foreach ($errors as $error) {
   }
  ?>
 
-<form class="" action="" method="post">
+<form class="" action="#submitted" method="post">
   <div class="row">
   <div class="input-field col s12 m6 l6">
     <input type="text" name="name" id="name">
@@ -110,10 +110,11 @@ foreach ($errors as $error) {
   <div class="input-field col s12">
     <textarea name="comment" class="materialize-textarea"></textarea>
     <label for="comment">Commentaire</label>
+    <input type="text" hidden name="check">
   </div>
-  <div class="col s12 center">
+  <div class="col s12 center" id="submitted">
     <button type="submit" name="submit" class="btn waves-effect">Commenter ce post</button>
   </div>
 </div>
 
-</form>-->
+</form>

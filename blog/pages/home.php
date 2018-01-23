@@ -1,5 +1,6 @@
-<h1>Blog</h1>
-
+<div class=""><h1>Blog</h1>
+<?php include'news-form.php'; ?>
+</div>
 
 <div class="row">
   <?php

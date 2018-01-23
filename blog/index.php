@@ -52,7 +52,7 @@
   </head>
   <body>
     <?php include'../private/views/nav.php'; ?>
-    <div class="container">
+    <div class="container ">
       <?php include 'pages/'.$page.'.php'; ?>
     </div>
     <script
